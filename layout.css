@@ -1,0 +1,47 @@
+body {
+  background-color: #e9cea5;
+}
+
+.navbar{
+  background-color: #f3d6ab;
+}
+
+.Imagem img {
+    max-width: 100%;
+    height: 50px;
+    width: 50px;
+    display: block;
+  }
+.card {
+  margin: 20px;
+  border-radius: 20px;
+}
+.card .btn {
+  background-color: #e9b269; 
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.card .btn:hover {
+  background-color: #e9b269c4; 
+  color: white;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h2 {
+  text-align: center;
+  color: #050505;
+}
+.Production img {
+  width: 800px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+footer{
+  background-color: #f3d6ab;
+}
